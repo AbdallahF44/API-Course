@@ -77,13 +77,13 @@ http://localhost:8000/api/...
 
 ## API Endpoints
 
-- *(Customize based on your actual routes)*
+*(Customize based on your actual routes)*
 
-– **List all posts** `GET /api/posts`
-– **Get a specific post** `GET /api/posts/{id}`
-– **Create a new post** `POST /api/posts`
-– **Update a post** `PUT /api/posts/{id}`
-– **Delete a post** `DELETE /api/posts/{id}`
+– **List all posts `GET /api/posts`**
+– **Get a specific post `GET /api/posts/{id}`**
+– **Create a new post `POST /api/posts`**
+– **Update a post `PUT /api/posts/{id}`**
+– **Delete a post `DELETE /api/posts/{id}`**
 
 ---
 
